@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "flash.data.unityweb",
+"asmCodeUrl": "flash.asm.code.unityweb",
+"asmMemoryUrl": "flash.asm.memory.unityweb",
+"asmFrameworkUrl": "flash.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
